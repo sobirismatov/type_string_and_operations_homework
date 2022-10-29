@@ -1,4 +1,4 @@
-def main(a):
+def main():
     """
     "*" Return a string that consists of only this character and is five in length.
     Args:
@@ -6,6 +6,7 @@ def main(a):
     Returns:
         str: return answer.
     """
-    if len(a)==5:
+    s="*****"
+    if len(s)==5:
 
-        return  5*"*"
+        return  s
