@@ -6,6 +6,6 @@ def main(s):
         str: return answer.
     """
 
-    if len(s)==8:
-        return s
+    len(s)==8
+    return s
 
