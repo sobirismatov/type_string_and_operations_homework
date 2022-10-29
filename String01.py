@@ -8,4 +8,4 @@ def main(s):
 
     if len(s)==8:
         return s
-print(main("asdfghljk"))
+
