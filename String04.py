@@ -1,4 +1,4 @@
-def main():
+def main(s):
     """
     Given the string "s". add a double quote on both sides, beginning and end.
     Args:
@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    s = "s"
-    return 
+    a='%s%s%s' % ('"',s,'"')
+    return a

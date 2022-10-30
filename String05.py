@@ -7,4 +7,6 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+    a="s1\ts2"
+    return a
+print(main(1,2))

@@ -1,3 +1,6 @@
+from re import A
+
+
 def main(first,last):
     """
     Given two strings, first_name and last_name, return a single string in the format "last, first".
@@ -7,4 +10,6 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    A=last+first
+    return A
+print(main("lom","sa"))
