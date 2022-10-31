@@ -7,4 +7,3 @@ def main(s):
         str: return answer.
     """
     return s.upper()
-print(main("salom"))

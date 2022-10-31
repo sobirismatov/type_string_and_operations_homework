@@ -1,4 +1,4 @@
-def main(a):
+def main():
     """"Return an optional string of length eight
     Args:
         None
@@ -6,5 +6,5 @@ def main(a):
         str: return answer.
     """
     
-    if len(a)==8:
-        return a 
+   
+    return   len()==8

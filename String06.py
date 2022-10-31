@@ -11,5 +11,5 @@ def main(s,n):
         str: return answer.
     """
     a=s*n
-    return a
+    return 
 print(main("salom",3))

@@ -7,6 +7,6 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    a="s1\ts2"
+    a=s1+' '+s2
     return a
-print(main(1,2))
+print(main("a","b"))
