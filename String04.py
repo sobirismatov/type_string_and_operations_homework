@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: return answer.
     """
-    a='%s%s%s' % ('"',s,'"')
-    return a
+    return '"'+s+'"'
+print(main("salom"))
