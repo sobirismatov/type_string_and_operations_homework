@@ -9,4 +9,4 @@ def main(x1,x2,x3):
         str: return answer.
     """
     A=f'[{x1},{x2},{x3}]'
-    return A
+    return str(A)
