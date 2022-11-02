@@ -6,5 +6,5 @@ def main():
         str: return answer.
     """
     
-    return len()==8
-print(main("aaaaaaaa"))
+    return "12345678"
+
