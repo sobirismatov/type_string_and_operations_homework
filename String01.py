@@ -5,6 +5,7 @@ def main(s):
     Returns:
         str: return answer.
     """
-    
-    a=len(s)==8
-    return   str(a)
+    a=0
+    if len(s)==8:
+        a= str(s)
+    return a
