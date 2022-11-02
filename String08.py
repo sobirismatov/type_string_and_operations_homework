@@ -10,6 +10,6 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    A=last+first
-    return str(A)
+    A="last"+"first"
+    return A
 
