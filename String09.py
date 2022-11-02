@@ -8,6 +8,6 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    A=f'"[{x1}, {x2}, {x3}]"'
-    return A
+    answer=f'"[{x1}, {x2}, {x3}]"'
+    return answer
 print(main(1,5,6))
