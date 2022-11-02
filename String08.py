@@ -11,5 +11,5 @@ def main(first,last):
         str: return answer.
     """
     A=last+first
-    return A
-print(main("lom","sa"))
+    return str(A)
+
