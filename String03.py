@@ -6,8 +6,11 @@ def main(a):
     Returns:
         str: return answer.
     """
-    len(a)==5
+    s=0
+    if len(a)==5:
+        s=5*"*"
 
-    return  5*"*"
+
+        return  str(s)
 print(main("saloam"))
 
