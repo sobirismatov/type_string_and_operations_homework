@@ -10,6 +10,6 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    a=s*n
-    return 
+
+    return str(s*n)
 print(main("salom",3))
